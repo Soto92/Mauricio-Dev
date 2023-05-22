@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mauricio-dev/static/css/main.073c9b0a.css",
+    "main.js": "/mauricio-dev/static/js/main.8cb76492.js",
+    "static/js/787.41f190cb.chunk.js": "/mauricio-dev/static/js/787.41f190cb.chunk.js",
+    "static/media/logo.svg": "/mauricio-dev/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mauricio-dev/index.html",
+    "main.073c9b0a.css.map": "/mauricio-dev/static/css/main.073c9b0a.css.map",
+    "main.8cb76492.js.map": "/mauricio-dev/static/js/main.8cb76492.js.map",
+    "787.41f190cb.chunk.js.map": "/mauricio-dev/static/js/787.41f190cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8cb76492.js"
+  ]
+}
