@@ -1,23 +1,16 @@
-import './App.css';
-import logo from './logo.svg';
+import "./App.css";
+import AboutMe from "./components/AboutMe";
+import Header from "./components/Header";
+import Stacks from "./components/Stacks";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Mauricio Soto Dev
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header />
+      <body className="Body-container">
+        <AboutMe />
+        <Stacks />
+      </body>
     </div>
   );
 }

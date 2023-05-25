@@ -1,0 +1,39 @@
+.Container-Stacks {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(23, 24, 26);
+  padding: 18px;
+  padding-bottom: 90px;
+}
+
+.Container-Stacks > h2 {
+  color: white;
+  font-size: 80px;
+  margin-bottom: 50px;
+  margin-top: 30px;
+}
+
+.Cards {
+  display: flex;
+  flex-wrap: wrap;
+  align-self: center;
+  justify-content: center;
+}
+
+.Card {
+  margin: 6px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  padding-bottom: 14px;
+  align-items: center;
+  background-color: #1c1c1c;
+  height: 220px;
+  width: 190px;
+  border-radius: 10px;
+}
+
+.Card > p {
+  color: white;
+}

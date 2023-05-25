@@ -1,38 +1,102 @@
+body,
+html {
+  height: 100%;
+}
+
+body {
+  background-image: url("./images/pena.jpg");
+  background-position: center;
+  background-repeat: repeat;
+  background-size: inherit;
+}
+
+* {
+  box-sizing: border-box;
+}
+
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  overflow: hidden;
+  background-color: rgba(0, 0, 0, 0.6);
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  height: 50vh;
+  background-color: black;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.Title-header {
+  font-family: arial;
+  display: flex;
+  flex-direction: column;
+  margin: 0px;
+  padding: 0px;
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  margin-left: 20px;
+  font-weight: 900;
+  text-transform: uppercase;
+  line-height: 1%;
+  animation: background 20s linear infinite;
+  background: linear-gradient(
+    90deg,
+    rgb(87, 81, 105) 0%,
+    rgb(14, 0, 102) 10%,
+    rgb(156, 18, 255) 20%,
+    rgb(24, 62, 145) 30%,
+    rgba(89, 90, 165, 1) 40%,
+    rgba(84, 16, 67, 1) 50%,
+    rgba(28, 58, 63, 1) 60%,
+    rgb(6, 33, 36) 70%,
+    rgb(58, 3, 56) 80%,
+    rgb(81, 3, 42) 90%,
+    rgb(34, 34, 34) 100%
+  );
+  background-size: 1000% 100%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+@keyframes background {
+  0% {
+    background-position: 0% 50%;
+  }
+  100% {
+    background-position: 100% 50%;
+  }
+}
+.Title-header > h1 {
+  font-size: 140px;
+  margin: 0;
+  line-height: 80%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.Subtitle-section {
+  display: flex;
+}
+.Subtitle-section > h1 {
+  font-size: 148px;
+  margin: 0;
+  line-height: 80%;
+}
+.Subtitle-subsection {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+}
+.Subtitle-subsection > p {
+  font-size: 46px;
+  margin: 0;
+  line-height: 83%;
+}
+.Body-container {
+  display: flex;
+  flex-direction: column;
+  margin: 4px 200px 20px;
 }
