@@ -100,3 +100,24 @@ body {
   flex-direction: column;
   margin: 4px 200px 20px;
 }
+
+@media (max-width: 500px) {
+  .App-header {
+    height: 30vh;
+  }
+  .Title-header > h1 {
+    font-size: 60px;
+    line-height: 80%;
+  }
+  .Subtitle-section > h1 {
+    font-size: 54px;
+    line-height: 80%;
+  }
+  .Subtitle-subsection > p {
+    font-size: 16px;
+    line-height: 86%;
+  }
+  .Body-container {
+    margin: 4px 2px 20px;
+  }
+}
