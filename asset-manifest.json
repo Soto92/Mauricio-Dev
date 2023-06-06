@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Mauricio-Dev/static/css/main.9bde1ef2.css",
+    "main.css": "/Mauricio-Dev/static/css/main.2b060389.css",
     "main.js": "/Mauricio-Dev/static/js/main.2c477d5d.js",
     "static/js/787.41f190cb.chunk.js": "/Mauricio-Dev/static/js/787.41f190cb.chunk.js",
     "static/media/santiago.jpg": "/Mauricio-Dev/static/media/santiago.121d831ff1054a42ef8b.jpg",
@@ -16,12 +16,12 @@
     "static/media/ts.png": "/Mauricio-Dev/static/media/ts.8fe41361dff57e3f6c2e.png",
     "static/media/js.png": "/Mauricio-Dev/static/media/js.bd63e43304d0aca76a3b.png",
     "index.html": "/Mauricio-Dev/index.html",
-    "main.9bde1ef2.css.map": "/Mauricio-Dev/static/css/main.9bde1ef2.css.map",
+    "main.2b060389.css.map": "/Mauricio-Dev/static/css/main.2b060389.css.map",
     "main.2c477d5d.js.map": "/Mauricio-Dev/static/js/main.2c477d5d.js.map",
     "787.41f190cb.chunk.js.map": "/Mauricio-Dev/static/js/787.41f190cb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9bde1ef2.css",
+    "static/css/main.2b060389.css",
     "static/js/main.2c477d5d.js"
   ]
 }
