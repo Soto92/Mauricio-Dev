@@ -1,7 +1,6 @@
 .Container-Stacks {
   display: flex;
   flex-direction: column;
-  background-color: rgb(23, 24, 26);
   padding: 18px;
   padding-bottom: 90px;
 }
@@ -14,6 +13,7 @@
 }
 
 .Cards {
+  margin: 1px 200px 1px;
   display: flex;
   flex-wrap: wrap;
   align-self: center;
@@ -29,7 +29,7 @@
   padding-bottom: 14px;
   align-items: center;
   background-color: #1c1c1c;
-  height: 220px;
+  height: 230px;
   width: 190px;
   border-radius: 10px;
 }

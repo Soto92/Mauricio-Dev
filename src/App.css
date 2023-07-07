@@ -98,7 +98,7 @@ body {
 .Body-container {
   display: flex;
   flex-direction: column;
-  margin: 4px 200px 20px;
+  margin: 1px 200px 1px;
 }
 
 @media (max-width: 500px) {
@@ -120,4 +120,39 @@ body {
   .Body-container {
     margin: 4px 2px 20px;
   }
+}
+
+.Container {
+  position: relative;
+  height: 950px;
+}
+
+.Background {
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.Content {
+  color: white;
+  font-weight: bold;
+  /* border: 6px solid #000000; */
+  /* background-color: rgba(0, 0, 0, 0.8); */
+  position: absolute;
+  top: 0;
+  z-index: 2;
+  height: 100%;
+  padding: 18px;
+}
+
+.Content > h2 {
+  font-size: 80px;
+}
+
+.Content > p {
+  font-size: 50px;
+  margin-top: 22px;
+  margin-bottom: 22px;
 }

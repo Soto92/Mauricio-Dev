@@ -4,6 +4,7 @@
   "homepage": "https://soto92.github.io/Mauricio-Dev",
   "private": true,
   "dependencies": {
+    "@react-spring/parallax": "^9.7.2",
     "@react-spring/web": "^9.7.2",
     "@testing-library/jest-dom": "5.16.5",
     "@testing-library/react": "13.4.0",
