@@ -1,12 +1,18 @@
 {
   "files": {
-    "main.css": "/Mauricio-Dev/static/css/main.2b060389.css",
-    "main.js": "/Mauricio-Dev/static/js/main.2c477d5d.js",
+    "main.css": "/Mauricio-Dev/static/css/main.ad7c6e0f.css",
+    "main.js": "/Mauricio-Dev/static/js/main.be8925aa.js",
     "static/js/787.41f190cb.chunk.js": "/Mauricio-Dev/static/js/787.41f190cb.chunk.js",
-    "static/media/santiago.jpg": "/Mauricio-Dev/static/media/santiago.121d831ff1054a42ef8b.jpg",
+    "static/media/trip.jpg": "/Mauricio-Dev/static/media/trip.b4738f0ac4615c45255d.jpg",
+    "static/media/meold.jpg": "/Mauricio-Dev/static/media/meold.7d1bbf3ee8e58a8ea2b1.jpg",
     "static/media/jenkins.png": "/Mauricio-Dev/static/media/jenkins.bac6ddc1dc1e387ae9ac.png",
+    "static/media/meold2.jpg": "/Mauricio-Dev/static/media/meold2.ea0c1cefcdfd2394cf91.jpg",
     "static/media/tl.png": "/Mauricio-Dev/static/media/tl.37d7acf7f964a0a854aa.png",
+    "static/media/dev.jpg": "/Mauricio-Dev/static/media/dev.52634b91db3c0d550347.jpg",
+    "static/media/it00.jpg": "/Mauricio-Dev/static/media/it00.92bee20034e35482ba38.jpg",
     "static/media/androidios.png": "/Mauricio-Dev/static/media/androidios.4d428d4e1d1a6996aafc.png",
+    "static/media/dev02.jpg": "/Mauricio-Dev/static/media/dev02.914210c8bc9442cbf274.jpg",
+    "static/media/it01.jpg": "/Mauricio-Dev/static/media/it01.c6a608f4f9a7d1c08e0a.jpg",
     "static/media/detox.png": "/Mauricio-Dev/static/media/detox.9b887e6f40378602ea70.png",
     "static/media/sass.png": "/Mauricio-Dev/static/media/sass.13045b9023e3420bd176.png",
     "static/media/react.png": "/Mauricio-Dev/static/media/react.09df55c21bdb35711dd0.png",
@@ -16,12 +22,12 @@
     "static/media/ts.png": "/Mauricio-Dev/static/media/ts.8fe41361dff57e3f6c2e.png",
     "static/media/js.png": "/Mauricio-Dev/static/media/js.bd63e43304d0aca76a3b.png",
     "index.html": "/Mauricio-Dev/index.html",
-    "main.2b060389.css.map": "/Mauricio-Dev/static/css/main.2b060389.css.map",
-    "main.2c477d5d.js.map": "/Mauricio-Dev/static/js/main.2c477d5d.js.map",
+    "main.ad7c6e0f.css.map": "/Mauricio-Dev/static/css/main.ad7c6e0f.css.map",
+    "main.be8925aa.js.map": "/Mauricio-Dev/static/js/main.be8925aa.js.map",
     "787.41f190cb.chunk.js.map": "/Mauricio-Dev/static/js/787.41f190cb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b060389.css",
-    "static/js/main.2c477d5d.js"
+    "static/css/main.ad7c6e0f.css",
+    "static/js/main.be8925aa.js"
   ]
 }
